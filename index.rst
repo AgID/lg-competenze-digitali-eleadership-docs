@@ -25,3 +25,9 @@ settore.
    :maxdepth: 3
    :numbered:
    :hidden:
+
+   premessa.rst
+   principi-e-strategie-per-mappatura-e-valorizzazione.rst
+   mappatura-possibili-linee-intervento.rst
+   percorsi-e-strumenti-progettazione-formativa.rst
+   lg-misurazione-di-impatto.rst
