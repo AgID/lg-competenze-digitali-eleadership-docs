@@ -46,26 +46,26 @@ per la misurazione di impatto.
 Acronimi e abbreviazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-AgID Agenzia per l'Italia Digitale
+**AGID** Agenzia per l'Italia Digitale
 
-CEN Comitato Europeo di Normazione
+**CEN** Comitato Europeo di Normazione
 
-CNIPA Centro Nazionale Informatica Pubblica Amministrazione
+**CNIPA** Centro Nazionale Informatica Pubblica Amministrazione
 
-DESI Digital Economy and Society Index
+**DESI** Digital Economy and Society Index
 
-e-CF e-Competence Framework
+**e-CF** e-Competence Framework
 
-EN Norma tecnica europea
+**EN** Norma tecnica europea
 
-ICT Information & Communication Technology
+**ICT** Information & Communication Technology
 
-LCMS Learning Content Management System
+**LCMS** Learning Content Management System
 
-MOOC Massive Open Online Courses
+**MOOC** Massive Open Online Courses
 
-PA Pubblica Amministrazione
+**PA** Pubblica Amministrazione
 
-SNA Scuola Nazionale dell'Amministrazione
+**SNA** Scuola Nazionale dell'Amministrazione
 
-UNI Ente Nazionale di Normazione
+**UNI** Ente Nazionale di Normazione
