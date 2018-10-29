@@ -361,7 +361,3 @@ organizzazioni nel settore pubblico e privato.
 | cittadini e per l’efficacia dei   |                                   |
 | processi di innovazione interna.  |                                   |
 +-----------------------------------+-----------------------------------+
- 
-
-.. discourse::
-   :topic_identifier: 3685
