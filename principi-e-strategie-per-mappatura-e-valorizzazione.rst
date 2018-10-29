@@ -89,7 +89,7 @@ un team) in 5 aree di competenza:
 5. **PA digitale:** conoscenza dei processi digitali della pubblica
    amministrazione.
 
-.. image:: eleadership.png
+.. image:: media/eleadership.png
   :scale: 50 %
   :alt: LE CINQUE AREE DI COMPETENZA PER L'E-LEADERSHIP
 
